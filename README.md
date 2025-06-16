@@ -1,4 +1,4 @@
-# BlinkIt_PowerBI_Dashboard
+# BlinkIt_Sales_PowerBI_Dashboard
 
 ### Project Title
 BlinkIt Sales Analytics Dashboard
